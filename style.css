@@ -1,0 +1,98 @@
+body {
+    color :white;
+    background-color: rgb(0, 181, 197);
+}
+
+
+h1 {
+    color : black;
+    background-color: white;
+    text-align: center;
+    font-size: 4.0em;
+}
+
+
+button {
+    background-color: white;
+    color: teal;
+    border: 2px solid white;
+    padding: 10px 20px;
+    font-size: 23px;
+    text-align: right;
+}
+
+
+h2 {
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+
+img {
+    display: block;
+    border: 2.5px solid white;
+    margin: 0 auto;
+    width: 80%;
+    height: auto;
+}
+
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 2.20em;
+}
+
+
+h4 {
+    color: white;
+    text-align: left;
+    font-size: 4.0em;
+}
+
+
+p {
+    color: white;
+    text-align: left;
+    font-size: 2.0em;
+}
+
+
+h5 {
+    color: teal;
+    background-color: white;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+
+h6 {
+    color: white;
+    text-align: center;
+    font-size: 3.5em;
+}
+
+
+#mom {
+    color: teal;
+    background-color: white;
+    text-align: center;
+    font-size: 2.0em;
+}
+
+#kabab {
+    color: white;
+    background-color: teal;
+    text-align: center;
+    font-size: 2.0em;
+}
+
+
+#maybe {
+    color: white;
+    background-color: teal;
+    text-align: center;
+    font-size: 3.0em;
+}
